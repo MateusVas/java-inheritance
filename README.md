@@ -1,0 +1,2 @@
+# java-inheritance
+inheritance exercise
